@@ -1,6 +1,8 @@
 # Radius Theme is a modified version of Kitchen Theme for stable-diffusion-web-ui
 
-Minimum requirements: Gradio-3.23.0 & SD-WebUI [4c1ad74] (https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4c1ad743e3baf1246db0711aa0107debf036a12b) 
+Minimum requirements: 
+
+• Gradio-3.23.0 & SD-WebUI [4c1ad74] (https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4c1ad743e3baf1246db0711aa0107debf036a12b) 
 
 Notable features:
 
