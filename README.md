@@ -23,3 +23,13 @@ Notable features:
 ## Installation
 
 Use "Install from URL" in the Extensions section of WebUI. 
+
+## Credits
+
+All the foundational work that made this theme possible:
+
+canisminor1990 https://github.com/canisminor1990/sd-web-ui-kitchen-theme
+
+Nacurutu https://github.com/Nacurutu/Dark-Themes-SD-WebUI-Automatic1111
+
+Gerschel https://github.com/Gerschel/sd-web-ui-quickcss
