@@ -6,9 +6,7 @@ Minimum requirements:
 
 Notable features:
 
-• Meticulous styling for UI-wide theme unformity and element alignment (where possible)
-
-• Simplified UI design for smooth interaction
+• Simplified UI for smooth interaction
 
 • Fullscreen image viewer redesigned for distractionless viewing of generated images
 
