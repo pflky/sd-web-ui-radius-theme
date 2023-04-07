@@ -1,12 +1,20 @@
-# Kitchen Theme for stable-diffusion-web-ui
+# Radius Theme is a modified version of Kitchen Theme for stable-diffusion-web-ui
 
-> ⚠️⚠️⚠️ Warning: minimum requirements gradio-3.23.0 & sd-webui [4c1ad74](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4c1ad743e3baf1246db0711aa0107debf036a12b) 
+Minimum requirements: Gradio-3.23.0 & SD-WebUI [4c1ad74] (https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/4c1ad743e3baf1246db0711aa0107debf036a12b) 
 
-Launch your WebUI with argument --theme=dark. For example, on Windows your webui-user.bat should include:
+Notable features:
 
-```shell
-set COMMANDLINE_ARGS= --theme=dark
-```
+• Meticulous styling for UI-wide theme unformity and element alignment (where possible)
+
+• Simplified but well thought out UI design for smooth interaction
+
+• Fullscreen image viewer redesigned for distractionless viewing of generated images
+
+• PNG info tab redesigned to allow for full size 512x512 viewing and centered display of generation parameters
+
+• Subpixel sampling for ultra smooth font display
+
+• Various UI bug fixes
 
 ## Screenshots
 
@@ -14,4 +22,4 @@ set COMMANDLINE_ARGS= --theme=dark
 
 ## Installation
 
-Use "Install from URL" in extensions section of WebUI. 
+Use "Install from URL" in the Extensions section of WebUI. 
