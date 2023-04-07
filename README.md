@@ -10,7 +10,7 @@ set COMMANDLINE_ARGS= --theme=dark
 
 ## Screenshots
 
-![](https://github.com/pflky/sd-web-ui-radius-theme/assets/screenshot.png?raw=true)
+![](https://github.com/pflky/sd-web-ui-radius-theme/blob/main/assets/screenshot.png?raw=true)
 
 ## Installation
 
