@@ -6,7 +6,7 @@ Notable features:
 
 • Meticulous styling for UI-wide theme unformity and element alignment (where possible)
 
-• Simplified but well thought out UI design for smooth interaction
+• Simplified UI design for smooth interaction
 
 • Fullscreen image viewer redesigned for distractionless viewing of generated images
 
