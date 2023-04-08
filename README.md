@@ -18,7 +18,7 @@ Notable features:
 
 ## Screenshots
 
-![](https://github.com/pflky/sd-web-ui-radius-theme/blob/main/assets/screenshot.png?raw=true)
+![](https://github.com/pflky/sd-web-ui-radius-theme/screenshot.png?raw=true)
 
 ## Installation
 
