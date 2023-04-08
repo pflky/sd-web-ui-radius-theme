@@ -26,7 +26,7 @@ Use "Install from URL" in the Extensions section of WebUI.
 
 ## Notes:
 
-Some seldom used features have been removed from the UI. Such as the checkpoint and styles refresh buttons, GFPGAN visibility, and XYZ comparison scripts. To restore them, open style.css with notepad and remove the annotated code found at the end of the file. They are segmented so you can easily remove the appropriate code if you want these features visible. 
+Some seldom used features have been removed from the UI. Such as the checkpoint and styles refresh buttons, GFPGAN visibility, and XYZ comparison scripts. To restore them, open style.css with notepad and remove the annotated code found at the end of the file. They are segmented so you can easily remove the appropriate code if you want to pick and choose which of these features you want visible. 
 
 ## Credits
 
