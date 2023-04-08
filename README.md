@@ -16,7 +16,7 @@ Notable features:
 
 • Various UI bug fixes
 
-## Screenshots
+## Screenshot
 
 ![](https://github.com/pflky/sd-web-ui-radius-theme/blob/main/assets/screenshot.png?raw=true)
 
