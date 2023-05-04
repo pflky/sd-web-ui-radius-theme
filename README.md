@@ -2,7 +2,7 @@
 
 Minimum requirements: 
 
-• Gradio-3.23.0 & SD-WebUI [5ab7f21] (https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/5ab7f213bec2f816f9c5644becb32eb72c8ffb89) 
+• SD-WebUI [5ab7f21] (https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/5ab7f213bec2f816f9c5644becb32eb72c8ffb89) 
 
 ## Features
 
