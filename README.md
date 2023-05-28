@@ -1,4 +1,4 @@
-# Radius Theme is a modified version of Kitchen Theme for stable-diffusion-web-ui
+# Radius Theme is a modified version of the oll Kitchen Theme for stable-diffusion-web-ui
 
 Minimum requirements: 
 
